@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>pen_cap-5.jpg</filename>
+	<path>/Users/starry/Desktop/CSE481C/cse481c-project/src/perception/object_detection_predefined/data/test/pen_cap-5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>item</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>162</ymin>
+			<xmax>244</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

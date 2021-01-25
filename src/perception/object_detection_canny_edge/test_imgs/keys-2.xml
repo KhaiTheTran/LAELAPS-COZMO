@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>keys-2.jpg</filename>
+	<path>/Users/starry/Desktop/CSE481C/cse481c-project/src/perception/object_detection_predefined/data/test/keys-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>item</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>98</ymin>
+			<xmax>241</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>

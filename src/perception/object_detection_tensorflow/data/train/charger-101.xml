@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>charger-101.jpg</filename>
+	<path>/Users/starry/Desktop/CSE481C/cse481c-project/src/perception/object_detection_predefined/data/train/charger-101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>item</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>134</ymin>
+			<xmax>197</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

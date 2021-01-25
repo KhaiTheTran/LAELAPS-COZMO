@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>keys-13.jpg</filename>
+	<path>/Users/starry/Desktop/CSE481C/cse481c-project/src/perception/object_detection_predefined/data/train/keys-13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>item</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>156</ymin>
+			<xmax>134</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>
